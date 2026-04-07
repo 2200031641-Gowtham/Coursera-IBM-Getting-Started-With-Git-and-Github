@@ -2,3 +2,6 @@
 
 ### Authors
 Ala Gowtham Siva Kumar
+fix typo
+new line for merge
+final fix
