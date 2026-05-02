@@ -1,4 +1,4 @@
-# IBM Full Stack Software Developer Certificate Course Code of Conduct
+# IBM Full Stack Software Developer Certificate Course Code of Conduct.
 
 ## Our Pledge
 
